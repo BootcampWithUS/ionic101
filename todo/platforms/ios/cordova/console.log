@@ -1,0 +1,13 @@
+2015-04-11 00:42:10.727 todo[4684:1679071] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/carlosrojas/Library/Developer/CoreSimulator/Devices/8982BBF8-5099-4C26-AF21-E05A9337160E/data/Containers/Data/Application/1F2B9255-B56F-4C42-8B99-BE8194394BB8/Library/Cookies/Cookies.binarycookies
+2015-04-11 00:42:10.984 todo[4684:1679071] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-11 00:42:10.984 todo[4684:1679071] Multi-tasking -> Device: YES, App: YES
+2015-04-11 00:42:10.996 todo[4684:1679071] Unlimited access to network resources
+2015-04-11 00:42:11.824 todo[4684:1679071] Resetting plugins due to page load.
+2015-04-11 00:42:12.376 todo[4684:1679071] Finished load of: http://192.168.1.20:8100/
+2015-04-11 00:45:11.494 todo[4684:1718166] Terminating since there is no system app.
+2015-04-11 00:45:30.036 todo[4832:1722878] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/carlosrojas/Library/Developer/CoreSimulator/Devices/8982BBF8-5099-4C26-AF21-E05A9337160E/data/Containers/Data/Application/D65FA6D7-4802-406B-9E70-54FDB5AC47C3/Library/Cookies/Cookies.binarycookies
+2015-04-11 00:45:30.138 todo[4832:1722878] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-11 00:45:30.139 todo[4832:1722878] Multi-tasking -> Device: YES, App: YES
+2015-04-11 00:45:30.140 todo[4832:1722878] Unlimited access to network resources
+2015-04-11 00:45:30.325 todo[4832:1722878] Resetting plugins due to page load.
+2015-04-11 00:45:30.671 todo[4832:1722878] Finished load of: http://192.168.1.20:8100/
